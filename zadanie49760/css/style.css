@@ -1,0 +1,17 @@
+#tekst {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+body {
+    background-color: #faebd6;
+}
+
+#paragraf-1 {
+    color: #a42423;
+}
+
+#paragraf-2 {
+    color: #00008f;
+}

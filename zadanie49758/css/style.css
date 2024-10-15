@@ -1,0 +1,20 @@
+.container {
+    color: white;
+    margin: 10px;
+    padding: 50px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    margin: 20px;
+}
+header {
+    font-weight: bold;
+    color: white;
+    font-size: 2em;
+}
+body {
+    background-color: gray;
+}
